@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="p0.aspx" title="Home"  description="">
+    <siteMapNode title="Browse Books" description="">
+      <siteMapNode title="Category"  description="">
+        <siteMapNode url="p2.aspx?Category=Children" title="Children"  description="" />
+        <siteMapNode url="p2.aspx?Category=Finance" title="Finance"  description="" />
+        <siteMapNode url="p2.aspx?Category=Non-Fiction" title="Non-Fiction"  description="" />
+        <siteMapNode url="p2.aspx?Category=Technical" title="Technical"  description="" />
+      </siteMapNode>
+      <siteMapNode url="p3.aspx" title="Title"  description="Title" />
+      <siteMapNode url="p4.aspx" title="Author" description="Author" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

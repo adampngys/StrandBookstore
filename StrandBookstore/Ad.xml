@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>images/uber.jpg</ImageUrl>
+    <AlternateText>Uber Promo</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/freeshipping.jpg</ImageUrl>
+    <AlternateText>Free Shipping Promo</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/blackfriday.jpg</ImageUrl>
+    <AlternateText>Black Friday Sale</AlternateText>
+    <Impressions>150</Impressions>
+  </Ad>
+</Advertisements>

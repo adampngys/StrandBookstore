@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode  title="Admin"  description="">
+    <siteMapNode title="Admin Menu" description="">
+      <siteMapNode url="p5.aspx" title="AssignRoles"  description="Assign User Roles" />
+      <siteMapNode url="p6.aspx" title="Inventory"  description="Edit Inventory" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
